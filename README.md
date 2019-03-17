@@ -2,11 +2,11 @@
 
 By this time you should have been introduced to Java Strings, Exceptions, Unit Testing, and Regex.
 
-#You will need all of these today!
+# You will need all of these today!
 
 In this project you will find a file in the resource folder called RawData.txt. It was supposed to be a grocery list formated in JSON, but after a huge defeat this weekend in a game called Munchkin, Tariq your fearless yet petty leader decided to come reformat it in his own Object Notation. JerkSON... you are welcome.
 
-##JerkSON Format
+## JerkSON Format
 
 Just like Json , JerkSON is supposed to be a Key Value Pair data store.
 
